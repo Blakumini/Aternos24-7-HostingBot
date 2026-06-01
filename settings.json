@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": Blakumini.aternos.me:33492,
+    "ip": "Blakumini.aternos.me:33492,"
     "port": 33492,
     "version": "",
     "try-creative": false
